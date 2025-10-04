@@ -1,4 +1,4 @@
-# Implications of Temperture on Response Creativity
+# Blog:  Implications of Temperture on Response Creativity
 2025-10-03
 
 ## Sample Temperature Settings and Resulting Responses
