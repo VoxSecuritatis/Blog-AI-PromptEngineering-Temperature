@@ -1,6 +1,12 @@
 # Blog:  Implications of Temperture on Response Creativity
 2025-10-03
 
+---
+
+_Which temperature setting do you prefer?_
+
+---
+
 ## Sample Temperature Settings and Resulting Responses
 
 Below are reference examples demonstrating how **temperature settings** affect LLM behavior and output style.  
