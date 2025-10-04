@@ -39,6 +39,8 @@
 
 Select the setting that best matches your needs.
 
+---
+
 🔹 Example: Comparing Temperatures
 ## 🔹 Example: Comparing Temperatures
 
@@ -47,6 +49,8 @@ Select the setting that best matches your needs.
 | **Explain what a firewall is** | A firewall is a system that monitors and filters network traffic based on predefined rules. | A firewall is like a digital gatekeeper, blocking suspicious traffic and allowing safe communication. | A firewall is a force field around a computer kingdom, choosing who may enter and keeping trolls away. |
 | **Clean “dad” joke** | Why don’t skeletons fight each other? Because they don’t have the guts. | Why can’t you trust stairs? They’re always up to something. | I told my Wi-Fi we needed to talk. Now we’re not on the same wavelength, but my toaster still laughs at my jokes. |
 | **Business value of AI** | The most important factor is aligning AI initiatives with business goals for measurable outcomes. | The key factor is linking AI to strategy for growth, savings, and better decision-making. | The most important factor is vision, using AI as a compass that reshapes value and creates new models. |
+
+---
 
 🔹 Key Takeaways
 
@@ -57,4 +61,5 @@ Select the setting that best matches your needs.
 Always select the temperature that matches the task requirements.
 
 ✅ Using the temperature parameter allows you to control whether an AI model provides precise answers, balanced conversation, or imaginative exploration.
+
 In a new prompt:  `set temperature=0.2 for the remainder of this chat. acknowledge.`
