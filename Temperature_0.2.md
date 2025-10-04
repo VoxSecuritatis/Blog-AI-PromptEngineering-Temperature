@@ -1,4 +1,6 @@
 ## LLM Temperature Settings
+Temperature setting = 0.2 (for ChatGPT, the default Temperature setting is 1.0) 
+
 📌 Context
 
 - Large Language Models (LLMs) can generate different styles of responses depending on the temperature setting. The temperature parameter adjusts the randomness of the output. Lower values make the responses more predictable, while higher values introduce more variety.
@@ -63,3 +65,6 @@ Always select the temperature that matches the task requirements.
 ✅ Using the temperature parameter allows you to control whether an AI model provides precise answers, balanced conversation, or imaginative exploration.
 
 In a new prompt:  `set temperature=0.2 for the remainder of this chat. acknowledge.`
+
+---
+© 2025 Brock Frary. All rights reserved.
