@@ -61,6 +61,8 @@ Select the setting that best matches your needs.
 
 Always select the temperature that matches the task requirements.
 
+- Default Temperature of ChatGPT = 1.0
+
 ✅ Using the temperature parameter allows you to control whether an AI model provides precise answers, balanced conversation, or imaginative exploration.
 
 In a new prompt:  `set temperature=0.2 for the remainder of this chat. acknowledge.`
