@@ -84,9 +84,10 @@ This brief provides a practical understanding of **LLM (Large Language Model) te
 ## Quick Reference
 
 - **ChatGPT Default Temperature:** `1.0`  
-- **Recommended for Secure Operations:** `0.2 – 0.5`  
-- **Recommended for Strategic Ideation:** `0.7 – 1.0`  
-
+- **Recommended for Secure Operations:** `0.2 – 0.5` — Example: generating compliance checklists or audit summaries.
+- **Recommended for Strategic Ideation:** `0.7 – 1.0` — Example: drafting AI strategy proposals or scenario analyses.
+- **Recommended for Creative Exploration:** `1.1 – 1.5` — Example: developing cybersecurity awareness analogies or conceptual innovation pitches.
+  
 ---
 
 © 2025 Brock Frary. All rights reserved.
