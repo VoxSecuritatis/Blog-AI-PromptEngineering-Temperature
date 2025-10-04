@@ -6,6 +6,8 @@ Large Language Models (LLMs) can generate responses that range from highly factu
 
 This guide explains temperature using the 5W1H method (Who, What, When, Where, Why, How) and includes step-by-step instructions with real examples.
 
+---
+
 🔹 5W1H Breakdown
 |  Question	   |   Explanation                                                                                                                                      |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,6 +18,7 @@ This guide explains temperature using the 5W1H method (Who, What, When, Where, W
 | Why?         |  To align responses with your goal: accuracy vs. novelty.                                                                                          |
 | How?         |  Adjust the parameter (range 0.0–2.0) and experiment until the tone matches your needs.                                                            |
 
+---
 	
 🔹 General Guide to Temperature Values
 | **Range** | **Behavior** | **Best For** |
@@ -26,6 +29,8 @@ This guide explains temperature using the 5W1H method (Who, What, When, Where, W
 | **1.1 – 1.5** | Very creative, playful, analogy-heavy | Storytelling, marketing copy |
 | **> 1.5** | Chaotic, unpredictable | Rarely useful — best for fun experiments |
 
+---
+
 🔹 Step-by-Step: How to Use Temperature
 
 1. **Define your goal** → Do you need precision or creativity?  
@@ -33,6 +38,8 @@ This guide explains temperature using the 5W1H method (Who, What, When, Where, W
 3. **Run tests** → Use the same prompt at different temperatures.  
 4. **Compare outputs** → Note changes in detail, tone, and creativity.  
 5. **Choose your best fit** → Lock in the value that matches your task.  
+
+---
 
 🔹 Example: Comparing Temperatures
 
@@ -44,15 +51,14 @@ We’ll use three prompts across 0.2 (deterministic), 0.7 (balanced), and 1.5 (c
 | **Clean “dad” joke** | Why don’t skeletons fight each other? Because they don’t have the guts. | Why can’t you trust stairs? They’re always up to something. | I told my Wi-Fi we needed to talk… now we’re not on the same wavelength, but at least my toaster thinks I’m hilarious. |
 | **Business value of AI** | The most important factor is aligning AI initiatives with business objectives for measurable results. | The key factor is linking AI to strategy — driving growth, cost savings, or better decisions. | The most important factor is vision: treating AI as a compass that reshapes value, from hidden insights to entirely new business models. |
 
+---
+
 🔹 Key Takeaways
 
-Low temperature (0.2) → Consistent and factual.
-
-Medium temperature (0.7) → Balanced, conversational, reliable.
-
-High temperature (1.5) → Creative, imaginative, sometimes chaotic.
-
-Always choose based on your use case — precision vs. creativity.
+- Low temperature (0.2) → Consistent and factual.
+- Medium temperature (0.7) → Balanced, conversational, reliable.
+- High temperature (1.5) → Creative, imaginative, sometimes chaotic.
+- Always choose based on your use case — precision vs. creativity.
 
 ✅ With temperature control, you decide whether your AI behaves like a fact-checker, a friendly collaborator, or a creative storyteller.
 
