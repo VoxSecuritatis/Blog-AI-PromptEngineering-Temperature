@@ -1,14 +1,17 @@
-## LLM Temperature Settings
+# LLM Temperature Settings
 2025-10-03
 
 **Temperature setting = 1.2**
 
+---
+
+## Use Case 1 - Educational blog post
+
+---
 📌 Context
 
 - Large Language Models (LLMs) can generate responses that range from highly factual to wildly creative. The temperature parameter controls this balance. Think of it as a “creativity dial”: lower settings make responses more predictable, while higher settings add variety and imagination.
 - This guide explains temperature using the 5W1H method (Who, What, When, Where, Why, How) and includes step-by-step instructions with real examples.
-
----
 
 🔹 5W1H Breakdown
 |  Question	   |   Explanation                                                                                                                                      |
