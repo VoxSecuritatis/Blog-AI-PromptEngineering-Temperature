@@ -1,5 +1,11 @@
-# Implications of Temperture on response creativity
+# Implications of Temperture on Response Creativity
 2025-10-03
+
+## Sample Temperature Settings and Resulting Response
+- Temperature_0.2.md
+- Temperature_1.2.md
+
+---
 
 ## Purpose
 This brief provides a practical understanding of **LLM (Large Language Model) temperature settings**, focusing on how to tune AI output precision and creativity for enterprise use cases in technology and innovation workflows.
