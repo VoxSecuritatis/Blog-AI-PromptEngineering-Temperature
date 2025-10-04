@@ -62,6 +62,8 @@ We’ll use three prompts across 0.2 (deterministic), 0.7 (balanced), and 1.5 (c
 
 ✅ With temperature control, you decide whether your AI behaves like a fact-checker, a friendly collaborator, or a creative storyteller.
 
+In a new prompt:  `set temperature=1.2 for the remainder of this chat. acknowledge.`
+
 ---
 
 © 2025 Brock Frary. All rights reserved.
