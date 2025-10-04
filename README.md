@@ -1,10 +1,21 @@
 # Implications of Temperture on Response Creativity
 2025-10-03
 
-## Sample Temperature Settings and Resulting Response
-- Temperature_0.2.md
-- https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/blob/main/Temperature_0.2.md
-- Temperature_1.2.md
+## Sample Temperature Settings and Resulting Responses
+
+Below are reference examples demonstrating how **temperature settings** affect LLM behavior and output style.  
+Each file contains identical prompts run at different temperatures to illustrate tone, creativity, and precision differences.
+
+| **File Name** | **Temperature Setting** | **Description** | **Link** |
+|----------------|--------------------------|------------------|-----------|
+| `Temperature_0.2.md` | 0.2 | Deterministic and factual — ideal for technical, compliance, or cybersecurity-related content. | [View on GitHub](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/blob/main/Temperature_0.2.md) |
+| `Temperature_1.2.md` | 1.2 | Creative and exploratory — useful for ideation, analogies, or conceptual strategy development. | [View on GitHub](https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/blob/main/Temperature_1.2.md) |
+
+---
+
+**Usage Note:**  
+These examples are designed for side-by-side comparison. Use them to evaluate how different temperature settings impact clarity, structure, and creative tone in AI-generated responses.
+
 
 ---
 
