@@ -1,5 +1,5 @@
 # Blog:  Implications of Temperture on Response Creativity
-2025-10-03
+Published: 2025-10-03 | Last Update: 2025-10-04
 
 ---
 
