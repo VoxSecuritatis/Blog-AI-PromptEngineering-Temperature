@@ -1,4 +1,4 @@
-# Blog:  Implications of Temperture on Response Creativity
+# Blog:  Implications of Temperature on Response Creativity
 Published: 2025-10-03 | Last Update: 2025-10-04
 
 ---
