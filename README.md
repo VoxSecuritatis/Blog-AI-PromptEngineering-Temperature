@@ -9,8 +9,9 @@ _Which temperature setting do you prefer?_
 
 ## Sample Temperature Settings and Resulting Responses
 
-Below are reference examples demonstrating how **temperature settings** affect LLM behavior and output style.  
-Each file contains identical prompts run at different temperatures to illustrate tone, creativity, and precision differences.
+- Below are reference examples demonstrating how **temperature settings** affect LLM behavior and output style. <br>
+- Each document contains identical prompts run at different temperatures to illustrate tone, creativity, and precision differences.<br>
+- Each document contains two use cases - an educational blog article and a fiction short story<br>
 
 | **File Name** | **Temperature Setting** | **Description** | **Link** |
 |----------------|--------------------------|------------------|-----------|
