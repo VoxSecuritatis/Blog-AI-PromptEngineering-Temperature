@@ -3,6 +3,15 @@
 
 **Temperature setting = 0.2**
 
+- Use Case 1 - Educational blog post.  An educational aid to teach Temperatue in LLM reponse.  This blog post is to be the determinisitic temperature setting.
+- Use Case 2 - A short story about the impacts of 
+
+---
+
+## Use Case 1 - Educational blog post
+
+---
+
 📌 Context
 
 - Large Language Models (LLMs) can generate different styles of responses depending on the temperature setting. The temperature parameter adjusts the randomness of the output. Lower values make the responses more predictable, while higher values introduce more variety.
