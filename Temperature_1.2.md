@@ -58,7 +58,8 @@ We’ll use three prompts across 0.2 (deterministic), 0.7 (balanced), and 1.5 (c
 - Low temperature (0.2) → Consistent and factual.
 - Medium temperature (0.7) → Balanced, conversational, reliable.
 - High temperature (1.5) → Creative, imaginative, sometimes chaotic.
-- Always choose based on your use case — precision vs. creativity.
+
+Always choose based on your use case — precision vs. creativity.
 
 - Default Temperature of ChatGPT = 1.0
 
