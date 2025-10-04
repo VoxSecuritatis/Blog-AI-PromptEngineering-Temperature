@@ -56,3 +56,6 @@ Always choose based on your use case — precision vs. creativity.
 
 ✅ With temperature control, you decide whether your AI behaves like a fact-checker, a friendly collaborator, or a creative storyteller.
 
+---
+
+© 2025 Brock Frary. All rights reserved.
