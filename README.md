@@ -3,6 +3,7 @@
 
 ## Sample Temperature Settings and Resulting Response
 - Temperature_0.2.md
+- https://github.com/VoxSecuritatis/Blog-AI-PromptEngineering-Temperature/blob/main/Temperature_0.2.md
 - Temperature_1.2.md
 
 ---
