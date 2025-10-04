@@ -1,4 +1,5 @@
 ## LLM Temperature Settings
+2025-10-03
 Temperature setting = 0.2 (for ChatGPT, the default Temperature setting is 1.0) 
 
 📌 Context
